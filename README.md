@@ -30,8 +30,4 @@ solutions that combine **hardware + software** to solve real-world problems.
 - Wi-Fi & Fiber Installations
 - Network Monitoring (Wireshark, Nagios)
 
----
-
-din.com/in/cyrus-mbuthia-8543451b5/
-- Email: cyrusmaina4321@gmail.com
 
