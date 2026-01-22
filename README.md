@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @saintscyruslints
-- 👀 I’m interested in dart application development and cyber security
-- 🌱 I’m currently learning  bachelor in computer and electronic systems 
-- 💞️ I’m looking to collaborate on both back end and front end programming on dart 
-- 📫 How to reach me call email saintscyrus2@gmail.com
+# 👋 Hi, I'm Cyrus Maina
 
-<!---
-saintscyruslints/saintscyruslints is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Computer & Electronic Systems Engineer | AI Engineer | Embedded & Network Systems  
+📍 Thika, Kenya  
+
+I am a motivated Computer and Electronic Systems Engineer with hands-on experience in 
+AI systems, embedded development, networking, and data analysis. I enjoy building 
+solutions that combine **hardware + software** to solve real-world problems.
+
+---
+
+## 🔧 Technical Skills
+
+**Programming & Software**
+- Python, C/C++, Java, JavaScript, Dart
+- Embedded Linux, MATLAB, Assembly
+
+**AI & Data**
+- Large Language Models (LLMs)
+- RAG Pipelines, Embeddings, Transformers
+- SQL, PostgreSQL, MySQL
+
+**Hardware & Systems**
+- Microcontrollers (Arduino, Raspberry Pi)
+- PCB & Circuit Design
+- Robotics & Control Systems
+
+**Networking**
+- TCP/IP, DNS, DHCP, VPN
+- Wi-Fi & Fiber Installations
+- Network Monitoring (Wireshark, Nagios)
+
+---
+
+din.com/in/cyrus-mbuthia-8543451b5/
+- Email: cyrusmaina4321@gmail.com
+
