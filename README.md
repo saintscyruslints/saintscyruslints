@@ -29,5 +29,10 @@ solutions that combine **hardware + software** to solve real-world problems.
 - TCP/IP, DNS, DHCP, VPN
 - Wi-Fi & Fiber Installations
 - Network Monitoring (Wireshark, Nagios)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 
